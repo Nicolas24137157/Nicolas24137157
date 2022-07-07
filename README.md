@@ -24,7 +24,7 @@ I am studying systems engineering at the Universidad del Valle - Colombia, I rea
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/344/fl-studio.png" width="36" height="36" alt="FL Studio" /></a>
+<a href="https://www.image-line.com/" target="_blank" rel="noreferrer"><img src="https://png2.cleanpng.com/sh/f60b53d290381048225e39094a08142e/L0KzQYm3VcEzN5p7iZH0aYP2gLBuTfZtNaR5jdZybz3nebjwlPFtNZJ6fNt4LYfygrz6lPF1cZDzRdt2YXfoPb3wjvUuaZNxRadqZke2coLqWPU3bZc6RqIDMUa1RIeAUcUzPmI6SasBNEW7Q4W1kP5o/kisspng-fl-studio-digital-audio-workstation-image-line-abl-5af73b1c8e6ef5.0816246715261519645834.png" width="36" height="36" alt="FL Studio" /></a>
 </p>
 
 
